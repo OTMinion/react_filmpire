@@ -17,7 +17,7 @@
     <a href="https://github.com/jovan-vukic/filmpire"><strong>Explore the project »</strong></a>
     <br />
     <br />
-    <a href="https://filmpire-jovan.netlify.app/">View Demo Site</a>
+    <a href="https://filmpire-dvh.netlify.app/">View Demo Site</a>
 
   </p>
 </div>
@@ -48,7 +48,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://filmpire-jovan.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://filmpire-dvh.netlify.app/)
 
 Filmpire combines the desire to unleash powerful creativity with the industry's most advanced JavaScript tools including React.js, Redux, Material UI, Alan AI, and more.
 
@@ -107,11 +107,9 @@ Setup:
 
 ## Usage
 
-For a full demonstration of all the functionalities of this phenomenal web application check out this [demo site](https://filmpire-jovan.netlify.app/).
+For a full demonstration of all the functionalities of this phenomenal web application check out this [demo site](https://filmpire-dvh.netlify.app/).
 
 _For more detailes regarding TMDB API calls, please refer to the [Documentation](https://developers.themoviedb.org/3/getting-started/introduction)._
-
-See the [open issues](https://github.com/jovan-vukic/filmpire/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -144,9 +142,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 ## Contact
 
-Jovan - [@jovan-vukic](https://github.com/jovan-vukic)
-
-Project Link: [https://github.com/jovan-vukic/filmpire](https://github.com/jovan-vukic/filmpire)
+Duc Viet Ha + email: victorha252@gmail.com + portfolio: 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
