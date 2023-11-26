@@ -14,7 +14,6 @@
   <p align="center">
     Filmpire - AI Powered Movie App [React.js, Material UI, Alan AI]
     <br />
-    <a href="https://github.com/jovan-vukic/filmpire"><strong>Explore the project »</strong></a>
     <br />
     <br />
     <a href="https://filmpire-dvh.netlify.app/">View Demo Site</a>
@@ -78,7 +77,7 @@ List of things you need to use and how to install them:
 
 - npm
   ```sh
-  npm install npm@latest -g
+  npm install --legacy-peer-deps
   ```
 
 ### Installation
@@ -88,11 +87,11 @@ Setup:
 1. Get a free TMDB API Key at [https://www.themoviedb.org/](https://www.themoviedb.org/).
 2. Clone the repo:
    ```sh
-   git clone https://github.com/jovan-vukic/filmpire.git
+   git clone https://github.com/OTMinion/react_filmpire.git 
    ```
 3. Install NPM packages:
    ```sh
-   npm install
+   npm install --legacy-peer-deps
    ```
 4. Create your `.env` file as it is instructed in `.env.example`.
 5. Enter your TMDB API key in your `.env`.
@@ -142,7 +141,11 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 ## Contact
 
-Duc Viet Ha + email: victorha252@gmail.com + portfolio: 
+Duc Viet Ha 
+
+Portfolio: 
+
+Email: victorha252@gmail.com 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
